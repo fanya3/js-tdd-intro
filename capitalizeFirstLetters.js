@@ -24,3 +24,5 @@ assert.strictEqual(capitalizeFirstLetters('i am learning TDD'), 'I Am Learning T
 assert.strictEqual(capitalizeFirstLetters('z'), 'Z');
 // Check that it works for an empty string
 assert.strictEqual(capitalizeFirstLetters(''), '');
+
+//
